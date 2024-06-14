@@ -94,9 +94,9 @@ I think it's worth highlighting that I had the project almost ready, just adapti
 - Instagram - [@gustavoodacosta_](https://www.instagram.com/gustavoodacosta_)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/GuguP4ulino)
 
-# Frontend Mentor - Solução da Social proof section - Português
+# Frontend Mentor - Solução Social proof section - Português
 
-Esta é uma solução para o [desafio da Social proof section no Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos reais.
+Esta é uma solução para o [desafio Social proof section do Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos reais.
 
 ## Índice
 
